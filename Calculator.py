@@ -1,7 +1,6 @@
 from tkinter import *
-from my_math import *
+from my_math import sin, cos, tan, sqrt
 
-sin(4)
 
 
 def buttons():
